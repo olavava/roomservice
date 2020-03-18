@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="olavava/android_device_blu_S910Q" path="device/blu/S910Q" remote="github" />  
+  <project name="olavava/android_vendor_blu_S910Q" path="vendor/blu/S910Q" remote="github" />  
+  <project name="olavava/android_kernel_blu_S910Q" path="kernel/blu/S910Q" remote="github" />  
+</manifest>
